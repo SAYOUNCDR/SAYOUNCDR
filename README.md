@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- [![Continous Integration](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev) -->
+<!-- [![Continous Integration](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev) 
+
+--- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#specifying-icons   
+above link is for readme profile creation icons
+
+
+
+
+
+-->
