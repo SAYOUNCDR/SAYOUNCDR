@@ -40,22 +40,14 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </div>
 
-## 🚀 Current Projects
-
-<div align="center">
-  <a href="https://github.com/SAYOUNCDR/OS-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAYOUNCDR&repo=OS-Project&theme=react" alt="OS-Project"/>
-  </a>
-  <a href="https://github.com/SAYOUNCDR/Startup-Collaboration-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAYOUNCDR&repo=Startup-Collaboration-Platform&theme=react" alt="Startup-Collaboration-Platform"/>
-  </a>
-</div>
-
 ## 🏆 Completed Projects
 
 <div align="center">
   <a href="https://github.com/SAYOUNCDR/TODO_PHP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAYOUNCDR&repo=TODO_PHP&theme=react" alt="TODO_PHP"/>
+  </a>
+  <a href="https://github.com/SAYOUNCDR/OS-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAYOUNCDR&repo=OS-Project&theme=react" alt="OS-Project"/>
   </a>
 </div>
 
