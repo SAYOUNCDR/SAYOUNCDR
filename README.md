@@ -62,21 +62,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAYOUNCDR&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAYOUNCDR&theme=react" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAYOUNCDR&layout=compact&theme=react" alt="Top Languages" />
 </div>
 
-
-## 📝 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
-## 😄 Random Joke
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23151515&textColor=%23fff&aColor=%230366D6&borderColor=%230366D6" alt="Jokes Card" />
-</div>
 
 ## 🌟 Fun Facts
 
