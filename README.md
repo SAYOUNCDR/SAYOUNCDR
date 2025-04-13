@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/CS-Major-blue" alt="CS Major"/>
     <img src="https://img.shields.io/badge/Year-Sophomore-green" alt="Second Year"/>
     <img src="https://img.shields.io/github/followers/SAYOUNCDR?label=Followers&style=social" alt="GitHub Followers"/>
-    <img src="https://komarev.com/ghpvc/?username=SAYOUNCDR&color=brightgreen" alt="Profile Visitors"/>
   </div>
 </div>
 
