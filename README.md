@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=html,css,php,python,mysql,c,cpp,java,tailwind,bootstrap,git,nodejs,js,express,mongodb,react&perline=8" />
+ <img src="https://skillicons.dev/icons?i=html,css,php,python,mysql,c,cpp,java,go,tailwind,bootstrap,git,nodejs,js,express,mongodb,postgresql,postman,react&perline=8" />
 </div>
 
 ## 🐧 Operating Systems
