@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAYOUNCDR&layout=compact&theme=github_dark&hide_border=false&bg_color=0D1117&langs_count=8&border_color=30363d" alt="Top Languages" height="200" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAYOUNCDR&theme=github-compact&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" />
-</div>>
+</div>
 
 
 ## 🌟 Fun Facts
