@@ -16,8 +16,8 @@
 
 - 🎓 Computer Science Sophomore
 - 💼 Aspiring Full-Stack Developer
-- 🚀 Constantly working on exciting projects
-- 🌱 Currently focusing on **JavaScript**, **Flask**, and preparing to dive into **Spring Boot**
+- 🚀 Constantly working on exciting projects and learning
+- 🌱 Currently focusing on All things DSA , DEV (JS/TS/BLA BLA), AI (Langchain , Rag...)
 
 ## 🛠️ Tech Stack
 
@@ -62,13 +62,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAYOUNCDR&theme=github-compact&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" />
 </div>
 
-
-## 🌟 Fun Facts
-
-- 💭 I can overthink the simplest decisions to an Olympic level
-- 🧠 I debug my code and my life with the same error-handling approach
-- 🌙 Night owl who believes the best code is written after midnight
-- ☕ My blood type is probably caffeine at this point
 
 ## 📫 Connect With Me
 &nbsp;
