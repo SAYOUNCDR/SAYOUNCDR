@@ -9,17 +9,11 @@
 ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-**Full Stack Developer × DevOps × AI Engineer**
+**Full Stack AI Engineer**
 
-Building scalable web apps, intelligent systems, and automated production workflows.
+Building scalable web apps, intelligent systems, automated production workflows, and CI/CD pipelines to deployment.
 
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
+
 
 </div>
 
@@ -40,5 +34,8 @@ If you’re hiring or collaborating, feel free to connect or drop me a message!
   </a>
   <a href="https://x.com/DriftNBlde">
     <img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://cal.com/sayoun-parui-sdv05p/30min">
+    <img src="https://img.shields.io/badge/-Schedule_a_Call-000000?style=for-the-badge&logo=google-calendar&logoColor=white" />
   </a>
 </p></div>
